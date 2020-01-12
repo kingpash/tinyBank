@@ -1,0 +1,9 @@
+C:\Users\bautistap\Desktop\Visual Studio\Bautista_HW_2_Tiny_Bank\Bautista_HW_2_Tiny_Bank\bin\Debug\Bautista_HW_2_Tiny_Bank.exe.config
+C:\Users\bautistap\Desktop\Visual Studio\Bautista_HW_2_Tiny_Bank\Bautista_HW_2_Tiny_Bank\bin\Debug\Bautista_HW_2_Tiny_Bank.exe
+C:\Users\bautistap\Desktop\Visual Studio\Bautista_HW_2_Tiny_Bank\Bautista_HW_2_Tiny_Bank\bin\Debug\Bautista_HW_2_Tiny_Bank.pdb
+C:\Users\bautistap\Desktop\Visual Studio\Bautista_HW_2_Tiny_Bank\Bautista_HW_2_Tiny_Bank\obj\Debug\Bautista_HW_2_Tiny_Bank.csprojResolveAssemblyReference.cache
+C:\Users\bautistap\Desktop\Visual Studio\Bautista_HW_2_Tiny_Bank\Bautista_HW_2_Tiny_Bank\obj\Debug\Bautista_HW_2_Tiny_Bank.Properties.Resources.resources
+C:\Users\bautistap\Desktop\Visual Studio\Bautista_HW_2_Tiny_Bank\Bautista_HW_2_Tiny_Bank\obj\Debug\Bautista_HW_2_Tiny_Bank.csproj.GenerateResource.Cache
+C:\Users\bautistap\Desktop\Visual Studio\Bautista_HW_2_Tiny_Bank\Bautista_HW_2_Tiny_Bank\obj\Debug\Bautista_HW_2_Tiny_Bank.exe
+C:\Users\bautistap\Desktop\Visual Studio\Bautista_HW_2_Tiny_Bank\Bautista_HW_2_Tiny_Bank\obj\Debug\Bautista_HW_2_Tiny_Bank.pdb
+C:\Users\bautistap\Desktop\Visual Studio\Bautista_HW_2_Tiny_Bank\Bautista_HW_2_Tiny_Bank\obj\Debug\Bautista_HW_2_Tiny_Bank.tinyBankForm.resources
